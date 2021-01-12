@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    font-style: Roboto;
+}
+
+nav li {
+    margin-bottom: 2px;
+    padding: 5px;
+}
