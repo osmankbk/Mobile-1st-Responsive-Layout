@@ -254,7 +254,8 @@ main p {
     }
 
     .intro {
-        max-width: 1450px;
+        max-width: 1000px;
+        margin: auto;
     }
 
     main {
