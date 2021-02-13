@@ -271,7 +271,7 @@ main p {
 /* ---- Transitions & Transformations ---- */
 
 section {
-    transition: transform .8s ease-in-out;
+    transition: transform .8s cubic-bezier(1,-1.05,.04,1.51);
 }
 
 section:hover {
